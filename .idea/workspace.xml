@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="575d60fc-19aa-4b02-b91d-d5c14a33522d" name="Changes" comment="" />
+    <list default="true" id="575d60fc-19aa-4b02-b91d-d5c14a33522d" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/ex2/Servidor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex3/Cliente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex3/Servidor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex4/Cliente.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex2/Intermediario.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex2/Intermediario.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -16,6 +23,77 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "jlopsx"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/jlopsx/ex_redes",
+    "accountId": "1969403c-39e9-4357-ab1a-32337d852f9c"
+  }
+}]]></component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.1029488771584466" />
+      <entry key="MS500" value="1.6346354430099024" />
+      <entry key="S2" value="1.8925469714729766" />
+      <entry key="S5" value="1.9555478337729126" />
+      <entry key="S10" value="1.9775212702406595" />
+      <entry key="S30" value="1.992450234565018" />
+      <entry key="S60" value="1.996217965389612" />
+      <entry key="M2" value="1.9981071913324802" />
+      <entry key="M5" value="1.9992424461714888" />
+      <entry key="M10" value="1.9996211513225841" />
+      <entry key="M15" value="1.9997474182650015" />
+      <entry key="M30" value="1.999873701156802" />
+      <entry key="H1" value="1.9999368485843503" />
+      <entry key="H2" value="1.9999684237936468" />
+      <entry key="H4" value="1.9999842117721895" />
+      <entry key="D1" value="1.9999973686113877" />
+      <entry key="W1" value="1.9999996240869171" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="0.0" />
+      <entry key="S2" value="0.0" />
+      <entry key="S5" value="0.0" />
+      <entry key="S10" value="0.0" />
+      <entry key="S30" value="0.0" />
+      <entry key="S60" value="0.0" />
+      <entry key="M2" value="0.0" />
+      <entry key="M5" value="0.0" />
+      <entry key="M10" value="0.0" />
+      <entry key="M15" value="0.0" />
+      <entry key="M30" value="0.0" />
+      <entry key="H1" value="0.0" />
+      <entry key="H2" value="0.0" />
+      <entry key="H4" value="0.0" />
+      <entry key="D1" value="0.0" />
+      <entry key="W1" value="0.0" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="0.8306535695026783" />
+      <entry key="MS500" value="1.229354439633488" />
+      <entry key="S2" value="1.7089072867592185" />
+      <entry key="S5" value="1.8722623165653185" />
+      <entry key="S10" value="1.9340780691948245" />
+      <entry key="S30" value="1.9775528323778497" />
+      <entry key="S60" value="1.9887161756405574" />
+      <entry key="M2" value="1.9943429445579128" />
+      <entry key="M5" value="1.9977335327472605" />
+      <entry key="M10" value="1.9988661579676879" />
+      <entry key="M15" value="1.9992439700442226" />
+      <entry key="M30" value="1.9996219173717569" />
+      <entry key="H1" value="1.999810941770182" />
+      <entry key="H2" value="1.9999054666557785" />
+      <entry key="H4" value="1.9999527322705126" />
+      <entry key="D1" value="1.9999921218982235" />
+      <entry key="W1" value="1.9999988745532924" />
+    </decayedShown>
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 5,
@@ -32,6 +110,7 @@
     "Application.TCPServer.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
     "codeWithMe.voiceChat.enabledByDefault": "false",
     "git-widget-placeholder": "master",
@@ -42,8 +121,8 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-jdk-30f59d01ecdd-a203e0a19954-intellij.indexing.shared.core-IU-262.10968.63" />
-        <option value="bundled-js-predefined-d6986cc7102b-4abd2a77f808-JavaScript-IU-262.10968.63" />
+        <option value="bundled-jdk-30f59d01ecdd-2df11533d9fe-intellij.indexing.shared.core-IU-262.11879.100" />
+        <option value="bundled-js-predefined-d6986cc7102b-4abd2a77f808-JavaScript-IU-262.11879.100" />
       </set>
     </attachedChunks>
   </component>
